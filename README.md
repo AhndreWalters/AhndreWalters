@@ -1,5 +1,5 @@
 
-<h1>Ahndre Walters 🇬🇩</h1>
+<h2>About Me</h2>
 
 <code>Cybersecurity Enthusiast (Student)</code>
 
