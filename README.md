@@ -1,10 +1,10 @@
-<h1>🕵🏼‍♂️ Ahndre Walters</h1>
+<h1>Ahndre Walters 🇬🇩</h1>
 
 <code>Cybersecurity Enthusiast (Student)</code>
 
 I am a Grenadian aspiring cybersecurity professional studying Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a>. I graduated from the <a href="https://www.youtube.com/watch?v=NMqNQRKPYUo&t=1331s">Cyber Nation Cybersecurity Bootcamp</a> as part of the first cohort held in Grenada. I’m laying a solid foundation in security, systems, and networking while developing a deep passion for ethical hacking and the process of identifying, analyzing, and securing vulnerabilities in real-world systems. My interest in technology is driven by curiosity, inspiring me to explore how things work beneath the surface and find ways to strengthen and improve them. I spend my time investigating cybersecurity tools, refining my ethical hacking skills, and staying up to date with the latest cyber threats and defenses. My goal is to contribute to creating a safer digital environment as I grow into a skilled and responsible security professional capable of making a real impact.
 
-<br><h2>Languages and Tools</h2>
+<h2>Languages and Tools</h2>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" /></a>
