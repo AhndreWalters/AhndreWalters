@@ -5,6 +5,11 @@
 
 <p align="justify">I am a Grenadian aspiring cybersecurity professional studying Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a>. I graduated from the <a href="https://www.youtube.com/watch?v=NMqNQRKPYUo&t=1331s">Cyber Nation Cybersecurity Bootcamp</a> as part of the first cohort held in Grenada. I’m laying a solid foundation in security, systems, and networking while developing a deep passion for ethical hacking and the process of identifying, analyzing, and securing vulnerabilities in real-world systems. My interest in technology is driven by curiosity, inspiring me to explore how things work beneath the surface and find ways to strengthen and improve them. I spend my time investigating cybersecurity tools, refining my ethical hacking skills, and staying up to date with the latest cyber threats and defenses. My goal is to contribute to creating a safer digital environment as I grow into a skilled and responsible security professional capable of making a real impact.</p>
 
+<a href="https://www.linkedin.com/in/ahndre-walters-5a3010336/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=link&logoColor=white"></a>
+<a href="https://github.com/AhndreWalters?tab=followers">
+    <img title="Follow Me On GitHub" src="https://custom-icon-badges.demolab.com/badge/-Follow My GitHub-grey?style=for-the-badge&logo=person-add&logoColor=white"></a>
+
 <h2>Languages and Tools</h2>
 
 <p align="left">
