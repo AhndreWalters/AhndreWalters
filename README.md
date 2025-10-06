@@ -23,5 +23,6 @@
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" /></a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" /></a>
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="KaliLinux" title="KaliLinux" /></a>
+    <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" /></a>
     <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" title="StackOverflow" /></a>
 </p>
