@@ -24,6 +24,5 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" /></a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="KaliLinux" title="KaliLinux" /></a>
   <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="Apple" title="Apple" /></a>
-  <a href="https://www.firefox.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" alt="FireFox" title="FireFox" /></a>
   <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" title="StackOverflow" /></a>
 </p>
