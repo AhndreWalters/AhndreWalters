@@ -4,7 +4,7 @@
 
 <code>ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴛᴜᴅᴇɴᴛ | ᴄʏʙᴇʀ ᴀɴᴀʟʏꜱᴛ ɪɴ ᴛʀᴀɪɴɪɴɢ</code>
 
-<p align="justify">I am a Grenadian aspiring cybersecurity professional pursuing an <b>Associate's Degree in Information Technology at <a href="https://www.tamcc.edu.gd/" target="_blank" rel="noreferrer" style="text-decoration:none;">T.A. Marryshow Community College</a></b>, and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</b>, where I developed hands-on skills in <b>network defense, vulnerability analysis, threat intelligence, and incident response</b>.</p>
+<p align="justify">I am a Grenadian aspiring cybersecurity professional pursuing an <b>Associate's Degree in Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b>, and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</b>, where I developed hands-on skills in <b>network defense, vulnerability analysis, threat intelligence, and incident response</b>.</p>
 <p align="justify">I’m passionate about <b>ethical hacking and security awareness</b>, with a strong interest in <b>penetration testing</b> and <b>cybersecurity education</b>. I aim to continue expanding my skills through continuous learning and practical projects to help build safer digital environments.</p>
 
 <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a>
