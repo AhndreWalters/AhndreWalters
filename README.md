@@ -1,8 +1,6 @@
 
-<h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=115&lines=whoami" alt="Typing SVG" /></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=115&lines=whoami" alt="Typing SVG" /></a>
 
 <code>Information Technology Student | Cyber Analyst in Training</code>
 
@@ -11,9 +9,7 @@
 
 <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=""><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=lightgrey"></a>
-
-<h2>Languages and Tools</h2>
-
+<br><br>
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
