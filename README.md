@@ -27,5 +27,4 @@
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="KaliLinux" title="KaliLinux" /></a>
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" /></a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
-    <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer"><img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" alt="StackOverflow" title="StackOverflow" /></a>
 </p>
