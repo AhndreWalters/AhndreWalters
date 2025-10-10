@@ -9,7 +9,9 @@
 
 <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href=""><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=lightgrey"></a>
-<br><br>
+
+<h2>Technical Skills</h2>
+
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
