@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=115&lines=whoami" alt="Typing SVG" /></a>
 
-<code>ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴛᴜᴅᴇɴᴛ | ᴄʏʙᴇʀ ᴀɴᴀʟʏꜱᴛ ɪɴ ᴛʀᴀɪɴɪɴɢ</code>
+<code>ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ ꜱᴛᴜᴅᴇɴᴛ • ᴄʏʙᴇʀ ᴀɴᴀʟʏꜱᴛ ɪɴ ᴛʀᴀɪɴɪɴɢ</code>
 
 <p align="justify">I am a Grenadian aspiring cybersecurity professional pursuing an <b>Associate's Degree in Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b>, and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</b>, where I developed hands-on skills in <b>network defense, vulnerability analysis, threat intelligence, and incident response</b>.</p>
 <p align="justify">I’m passionate about <b>ethical hacking and security awareness</b>, with a strong interest in <b>penetration testing</b> and <b>cybersecurity education</b>. I aim to continue expanding my skills through continuous learning and practical projects to help build safer digital environments.</p>
