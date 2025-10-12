@@ -13,7 +13,6 @@
 <h2>Technical Skills</h2>
 
 <p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" width="35px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript"  /></a>
