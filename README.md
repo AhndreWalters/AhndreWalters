@@ -8,7 +8,7 @@
 <p align="justify">I’m passionate about <b>ethical hacking and security awareness</b>, with a strong interest in <b>penetration testing</b> and <b>cybersecurity education</b>. I aim to continue expanding my skills through continuous learning and practical projects to help build safer digital environments.</p>
 
 <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:AhndreW5353@tamcc.edu.gd"><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=grey"></a>
+<a href="mailto:AhndreW5353@tamcc.edu.gd"><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=lightgrey"></a>
 
 <h2>Technical Skills</h2>
 
