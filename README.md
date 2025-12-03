@@ -26,5 +26,6 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" /></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" /></a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AmazonWebServices" title="AmazonWebServices" /></a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </p>
