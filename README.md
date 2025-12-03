@@ -12,7 +12,7 @@
 
 <h2>Technical Skills</h2>
 
-<p align="center">
+<div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript"  /></a>
@@ -28,4 +28,4 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AmazonWebServices" title="AmazonWebServices" /></a>
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
-</p>
+</div>
