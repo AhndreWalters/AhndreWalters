@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img align="centre" width="125px" src="coatofarms.png"></h1>
+    <img align="centre" width="125px" src="coatofarms.png">
 <!--<img align="centre" src="grenadatropicalsplashwithcoatofarms.jpg">-->
 </div>
 
