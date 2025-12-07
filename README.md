@@ -1,8 +1,9 @@
 <div align="center">
-    <h1><img align="centre" width="125px" src="coatofarms.png"></h1>
+    <img align="centre" width="125px" src="coatofarms.png">
 <!--<img align="centre" src="grenadatropicalsplashwithcoatofarms.jpg">-->
 </div>
 
+<br>
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
