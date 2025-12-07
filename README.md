@@ -1,6 +1,6 @@
 <div align="center">
     <!-- <img align="centre" width="125px" src="coatofarms.png"> -->
-    <img align="centre" width="125px" src="grenadatropicalsplashwithcoatofarms.jpg">
+    <img align="centre" src="grenadatropicalsplashwithcoatofarms.jpg">
 </div>
 
 <br>
