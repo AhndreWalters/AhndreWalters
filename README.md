@@ -1,9 +1,8 @@
 <div align="center">
-    <img align="centre" width="125px" src="coatofarms.png">
+    <h1><img align="centre" width="125px" src="coatofarms.png"></h1>
 <!--<img align="centre" src="grenadatropicalsplashwithcoatofarms.jpg">-->
 </div>
 
-<br>
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
@@ -17,7 +16,7 @@
 <!-- <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 <!-- <a href="mailto:AhndreW5353@tamcc.edu.gd"><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=yellow"></a> -->
 
-<h2>Technical Skills</h2>
+<br>
 
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
