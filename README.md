@@ -14,8 +14,7 @@
 <!-- <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 <!-- <a href="mailto:AhndreW5353@tamcc.edu.gd"><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=yellow"></a> -->
 
-<br>
-
+<h1></h1>
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" /></a>
