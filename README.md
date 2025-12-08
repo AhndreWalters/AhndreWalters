@@ -35,6 +35,5 @@
 
 <br>
 <br>
-<br>
 
 <a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
