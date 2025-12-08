@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="styles.css">
+
 <div align="center">
 <!--<img align="centre" width="125px" src="coatofarms.png">-->
 <!--<img align="centre" src="grenadatropicalsplashwithcoatofarms.jpg">-->
