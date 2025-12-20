@@ -60,9 +60,8 @@
 <a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
 </div>
 -->
-
-<br>
-
+<!--
 <div align="center">
 <a href="https://tryhackme.com/p/AhndreWalters" target="_blank" rel="noreferrer"><img width="250px" src="https://tryhackme-badges.s3.amazonaws.com/AhndreWalters.png" alt="Your Image Badge" /></a>
 </div>
+-->
