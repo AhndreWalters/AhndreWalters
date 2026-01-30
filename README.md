@@ -36,10 +36,6 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<br>
-
-<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p>
-
 <!--
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img align="left" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>
