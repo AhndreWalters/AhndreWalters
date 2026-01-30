@@ -34,11 +34,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AmazonWebServices" title="AmazonWebServices" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
-</div>
-
-<div align="right">
-    <a href="" target="_blank" rel="noreferrer"><img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" /></a>
-</div>         
+</div>        
 
 <!--
 <div align="center">
