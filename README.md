@@ -68,6 +68,6 @@
 
 <br>
 
-<div align="right">
-<img align="right" width="35px" src="coatofarms.png">
+<div align="center">
+<img width="40px" src="coatofarms.png">
 </div>
