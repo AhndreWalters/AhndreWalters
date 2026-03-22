@@ -36,9 +36,10 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<h1></h1>
 
-[![Commit Frequency](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0d1f3c&hide_border=true&height=300&custom_title=Commit%20Frequency)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+[![Combined Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=ffb3ff&line=00ffff&point=ffff00&area=true&area_color=ff00801a&hide_border=true&height=300&hide_title=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <!--
 <div align="center">
 <a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
