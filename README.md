@@ -38,8 +38,7 @@
 
 <h1></h1>
 
-[![Repo Growth](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0d1f3c&hide_border=true&height=300&custom_title=Repo%20Growth)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+[![Commit Frequency](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=58a6ff&line=1f6feb&point=79c0ff&area=true&area_color=0d1f3c&hide_border=true&height=300&custom_title=Commit%20Frequency)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 <!--
 <div align="center">
 <a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
