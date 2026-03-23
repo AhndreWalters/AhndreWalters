@@ -43,11 +43,11 @@
 <br>
 
 <div align="center">
-  <img src="protexxa.png" alt="" height="35"/>
+  <img src="protexxa.png" alt="Protexxa" height="35"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="coatofarms.png" alt="Grenada Coat of Arms" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="cybernations.png" alt="Grenada Coat of Arms" height="35"/>
+  <img src="cybernations.png" alt="Cyber Nations" height="35"/>
 </div>
 
 <!--
