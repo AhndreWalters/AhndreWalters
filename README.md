@@ -44,6 +44,12 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
+<br>
+
+<div align="center">
+        <a href="" target="_blank" rel="noreferrer"><img width="150px" src="" alt="" title="" /></a>
+</div>
+
 <!--
 <div align="center">
 
