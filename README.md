@@ -30,9 +30,9 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img width="40px" src="protexxa.png" alt="Protexxa" title="Protexxa" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img width="60px" src="coatofarms.png" alt="Coat of Arms" title="Coat of Arms" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank" rel="noreferrer"><img width="40px" src="cybernations.png" alt="Cyber Nations" title="Cyber Nations" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="" target="_blank" rel="noreferrer"><img width="35px" src="protexxa.png" alt="Protexxa" title="Protexxa" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="" target="_blank" rel="noreferrer"><img width="50px" src="coatofarms.png" alt="Coat of Arms" title="Coat of Arms" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="" target="_blank" rel="noreferrer"><img width="35px" src="cybernations.png" alt="Cyber Nations" title="Cyber Nations" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="KaliLinux" title="KaliLinux" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
