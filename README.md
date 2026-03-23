@@ -43,9 +43,11 @@
 <br>
 
 <div align="center">
+  <img src="protexxa.png" alt="" height="35"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="coatofarms.png" alt="Grenada Coat of Arms" height="40"/>
-  &nbsp;
-  <img src="comptiacertmaster.png" alt="CERTMSTER" height="35"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="cybernations.png" alt="Grenada Coat of Arms" height="35"/>
 </div>
 
 <!--
