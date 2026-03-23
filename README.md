@@ -42,11 +42,13 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="coatofarms.png" alt="Grenada Coat of Arms" height="50"/>
   &nbsp;
   <img src="nist.png" alt="NIST" height="50"/>
-</p>
+  &nbsp;
+  <img src="comptiacertmaster.png" alt="CERTMSTER" height="50"/>
+</div>
 
 <!--
 <div align="center">
