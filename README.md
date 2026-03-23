@@ -45,9 +45,7 @@
 <div align="center">
   <img src="coatofarms.png" alt="Grenada Coat of Arms" height="50"/>
   &nbsp;
-  <img src="nist.png" alt="NIST" height="50"/>
-  &nbsp;
-  <img src="comptiacertmaster.png" alt="CERTMSTER" height="50"/>
+  <img src="comptiacertmaster.png" alt="CERTMSTER" height="45"/>
 </div>
 
 <!--
