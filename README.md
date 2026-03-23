@@ -40,10 +40,12 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
+<br>
+
 <p align="center">
-  <img src="" alt="Grenada Coat of Arms" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" alt="NIST" height="80"/>
+  <img src="coatofarms.png" alt="Grenada Coat of Arms" height="50"/>
+  &nbsp;
+  <img src="nist.png" alt="NIST" height="50"/>
 </p>
 
 <!--
