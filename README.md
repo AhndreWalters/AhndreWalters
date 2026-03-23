@@ -41,13 +41,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.csirt.gov.gd" target="_blank">
-    <img src="" alt="" height="80"/>
-  </a>
+  <img src="" alt="Grenada Coat of Arms" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.gov.gd/ict" target="_blank">
-    <img src="https://www.gov.gd/images/dictimages/ictlogolarge.png" alt="Grenada Division of ICT" height="80"/>
-  </a>
+  <img src="" alt="NIST" height="80"/>
 </p>
 
 <!--
