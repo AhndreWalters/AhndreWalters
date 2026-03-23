@@ -51,7 +51,7 @@
 -->
 
 <div align="center">
-  <img src="3logos.png" alt="" height="100"/>
+  <img src="3logos.png" alt="" height="80"/>
 </div>
 
 <!--
