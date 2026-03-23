@@ -40,6 +40,16 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
+<p align="center">
+  <a href="https://www.csirt.gov.gd" target="_blank">
+    <img src="" alt="" height="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.gov.gd/ict" target="_blank">
+    <img src="https://www.gov.gd/images/dictimages/ictlogolarge.png" alt="Grenada Division of ICT" height="80"/>
+  </a>
+</p>
+
 <!--
 <div align="center">
 <a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
