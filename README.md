@@ -16,6 +16,8 @@
 <!-- <a href="https://www.linkedin.com/in/ahndre-walters/"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-1155ba?style=for-the-badge&logo=linkedin&logoColor=white"></a> -->
 <!-- <a href="mailto:AhndreW5353@tamcc.edu.gd"><img src="https://custom-icon-badges.demolab.com/badge/-AhndreW5353@TAMCC.EDU.GD-1155ba?style=for-the-badge&logo=mail&logoColor=white&color=yellow"></a> -->
 
+[![Combined Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=ffb3ff&line=00ffff&point=ffff00&area=true&area_color=ff00801a&hide_border=true&height=300&hide_title=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 <h1></h1><br>
 
 <div align="center">
@@ -36,10 +38,7 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<h1></h1>
 
-
-[![Combined Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=ffb3ff&line=00ffff&point=ffff00&area=true&area_color=ff00801a&hide_border=true&height=300&hide_title=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--
 <div align="center">
