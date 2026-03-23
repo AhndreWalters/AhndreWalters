@@ -40,14 +40,18 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<br>
-
+<!--
 <div align="center">
   <img src="protexxa.png" alt="Protexxa" height="35"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="coatofarms.png" alt="Grenada Coat of Arms" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="cybernations.png" alt="Cyber Nations" height="35"/>
+</div>
+-->
+
+<div align="center">
+  <img src="3logos.png" alt="" height="100"/>
 </div>
 
 <!--
