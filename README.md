@@ -40,7 +40,7 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<h1></h1><br>
+<br>
 
 <div align="center">
   <img src="protexxa.png" alt="Protexxa" height="35"/>
