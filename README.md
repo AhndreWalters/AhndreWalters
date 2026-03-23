@@ -20,7 +20,7 @@
 [![Combined Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhndreWalters&bg_color=00000000&color=ffb3ff&line=00ffff&point=ffff00&area=true&area_color=ff008080&hide_border=true&height=300&hide_title=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 -->
 
-<p align="center">●──────────────────────────────────────────────────────────────────────────────────●</p>
+<p align="center">────────────────────────────────────── <span style="color: gold;">♛</span> ──────────────────────────────────────</p>
 
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
