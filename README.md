@@ -48,7 +48,7 @@
 
 <div align="center">
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="100px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>
-        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="145px" src="comptiacertmaster.png" alt="CompTIA CERTMASTER" title="CompTIA CERTMASTER" /></a>
+        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="145px" src="" alt="CompTIA CERTMASTER" title="CompTIA CERTMASTER" /></a>
 </div>
 
 <!--
