@@ -31,9 +31,9 @@
 <br>
 
 <div align="center">
-        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="100px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="170px" src="nist.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="100px" src="osint.png" alt="CompTIA" title="CompTIA" /></a>
+        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="145px" src="nist.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="osint.png" alt="CompTIA" title="CompTIA" /></a>
 </div>
 
 <!--
