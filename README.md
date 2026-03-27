@@ -8,7 +8,7 @@
 <p align="justify">I am a Grenadian aspiring cybersecurity professional pursuing an <b>Associate's Degree in Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b>, and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</b>, where I developed hands-on skills in <b>network defense, vulnerability analysis, threat intelligence, and incident response</b>.</p>
 <p align="justify">I’m passionate about <b>ethical hacking and security awareness</b>, with a strong interest in <b>penetration testing</b> and <b>cybersecurity education</b>. I aim to continue expanding my skills through continuous learning and practical projects to help build safer digital environments.</p>
 
-<br>
+<h1></h1>
 
 <div align="center">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
