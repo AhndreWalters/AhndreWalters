@@ -24,8 +24,8 @@
     <a href="https://www.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" title="Windows" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
 <br>
