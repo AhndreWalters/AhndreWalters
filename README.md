@@ -1,8 +1,11 @@
 
 <!-- <p align="center"><img width="70%" src="https://user-images.githubusercontent.com/65062036/201350431-fac1a82c-7a1e-48ee-89e5-cc14a5e6bc7e.png"></p> -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=115&lines=whoami" alt="Typing SVG" /></a><br>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&color=FFFFFF&repeat=false&width=65&lines=%3A~%24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=115&lines=whoami" alt="Typing SVG" /></a><br>-->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=E4E4E4&repeat=false&width=60&lines=%3A~%24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=4000&width=100&lines=whoami" alt="Typing SVG" /></a><br>
 <code>Information Technology Student • Security Analyst in Training</code>
 
 <p align="justify">I am a Grenadian aspiring cybersecurity professional pursuing an <b>Associate's Degree in Information Technology at <a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b>, and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</b>, where I developed hands-on skills in <b>network defense, vulnerability analysis, threat intelligence, and incident response</b>.</p>
