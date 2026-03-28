@@ -32,8 +32,6 @@
 
 <div align="center">
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <!--<a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown.png" alt="George Brown College" title="George Brown College" /></a>-->
-        <!--<a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img width="120px" src="comptiacertmaster.png" alt="CompTIA CERTMASTER" title="CompTIA CERTMASTER" /></a>-->
         <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown3.png" alt="George Brown College" title="George Brown College" /></a>
 </div>
 
@@ -42,16 +40,5 @@
 
 [![Launch of the Grenada Digital Workforce Initiative](https://ytcards.demolab.com/?id=8dmkTXhAAj8&title=Launch+of+the+Grenada+Digital+Workforce+Initiative&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Launch of the Grenada Digital Workforce Initiative")](https://www.youtube.com/watch?v=8dmkTXhAAj8)
 [![Cyber Nations Closing Ceremony](https://ytcards.demolab.com/?id=NMqNQRKPYUo&title=Cyber+Nations+Closing+Ceremony&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyber Nations Closing Ceremony")](https://www.youtube.com/watch?v=NMqNQRKPYUo&t=5828s)
-</div>
--->
-
-<!--
-<div align="center">
-<a href="https://tryhackme.com/p/Ahndre" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Ahndre.png" alt="Your Image Badge" /></a>
-</div>
--->
-<!--
-<div align="center">
-<a href="https://tryhackme.com/p/AhndreWalters" target="_blank" rel="noreferrer"><img width="250px" src="https://tryhackme-badges.s3.amazonaws.com/AhndreWalters.png" alt="Your Image Badge" /></a>
 </div>
 -->
