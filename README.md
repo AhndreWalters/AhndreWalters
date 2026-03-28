@@ -5,8 +5,9 @@
 
 <p align="justify">I am a Grenadian aspiring cybersecurity professional currently pursuing an <b>Associate's Degree in Information Technology</b> at <b><a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b> and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</a></b>, where I developed hands-on skills in <b>network defense</b>, <b>vulnerability analysis</b>, <b>threat intelligence</b>, and <b>incident response</b>.</p>
 
-<p align="justify">Passionate about <b>security operations</b> and <b>defensive cybersecurity</b>, I have a strong interest in entry-level roles focused on <b>monitoring</b>, <b>protecting</b>, and <b>strengthening</b> digital environments through continuous learning and practical application.</p>
+<p align="justify">I am passionate about <b>security operations</b> and <b>defensive cybersecurity</b>, with a strong interest in entry-level roles focused on <b>monitoring</b>, <b>protecting</b>, and <b>strengthening digital environments</b>. I approach cybersecurity with a focus on <b>precision</b>, <b>critical analysis</b>, and <b>proactive defense</b>. I am committed to thoroughly understanding system architectures and implementing effective security measures that reduce risk and strengthen overall resilience.</p>
 
+<p align="justify">I am committed to growing as a <b>Blue Team professional</b> through <b>continuous learning</b>, <b>hands-on projects</b>, and pursuing <b>certifications</b> that deepen my technical skills. My goal is to contribute to a security team where I can make a meaningful impact while continuing to develop my craft and help build <b>safer digital spaces</b>.</p>
 
 <h1></h1>
 
