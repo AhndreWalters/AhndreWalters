@@ -38,7 +38,7 @@
 <!--
 <div align="center">
 
-[![Launch of the Grenada Digital Workforce Initiative](https://ytcards.demolab.com/?id=8dmkTXhAAj8&title=Launch+of+the+Grenada+Digital+Workforce+Initiative&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Launch of the Grenada Digital Workforce Initiative")](https://www.youtube.com/watch?v=8dmkTXhAAj8)
-[![Cyber Nations Closing Ceremony](https://ytcards.demolab.com/?id=NMqNQRKPYUo&title=Cyber+Nations+Closing+Ceremony&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyber Nations Closing Ceremony")](https://www.youtube.com/watch?v=NMqNQRKPYUo&t=5828s)
+[![Launch of the Grenada Digital Workforce Initiative](https://ytcards.demolab.com/?id=8dmkTXhAAj8&title=Launch+of+the+Grenada+Digital+Workforce+Initiative&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=150&border_radius=5 "Launch of the Grenada Digital Workforce Initiative")](https://www.youtube.com/watch?v=8dmkTXhAAj8)
+[![Cyber Nations Closing Ceremony](https://ytcards.demolab.com/?id=NMqNQRKPYUo&title=Cyber+Nations+Closing+Ceremony&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=150&border_radius=5 "Cyber Nations Closing Ceremony")](https://www.youtube.com/watch?v=NMqNQRKPYUo&t=5828s)
 </div>
 -->
