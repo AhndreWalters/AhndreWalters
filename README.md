@@ -32,8 +32,8 @@
 
 <div align="center">
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown.png" alt="George Brown College" title="George Brown College" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img width="120px" src="comptiacertmaster.png" alt="CompTIA CERTMASTER" title="CompTIA CERTMASTER" /></a>
+        <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown.png" alt="George Brown College" title="George Brown College" /></a>
+        <!--<a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img width="120px" src="comptiacertmaster.png" alt="CompTIA CERTMASTER" title="CompTIA CERTMASTER" /></a>-->
 </div>
 
 <!--
