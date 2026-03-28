@@ -28,6 +28,8 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
+<br>
+
 <div align="center">
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown3.png" alt="George Brown College" title="George Brown College" /></a>
