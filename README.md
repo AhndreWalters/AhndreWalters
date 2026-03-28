@@ -28,13 +28,12 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
-<!--
+<br>
+
 <div align="center">
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="75px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.nist.gov/" target="_blank" rel="noreferrer"><img width="145px" src="nist.png" alt="NIST" title="NIST" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://osintframework.com/" target="_blank" rel="noreferrer"><img width="75px" src="osint.png" alt="OSINT" title="OSINT" /></a>
+        <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img Height="23px" src="GeorgeBrown.png" alt="George Brown College" title="George Brown College" /></a>
 </div>
--->
 
 <!--
 <div align="center">
