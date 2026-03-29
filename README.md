@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&color=E4E4E4&repeat=false&width=60&height=47&lines=%3A~%24" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=5000&width=105&height=47&lines=whoami" alt="Typing SVG" /></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280" align="right">
 
 <p align="">I am a Grenadian aspiring cybersecurity professional currently pursuing an <b>Associate's Degree in Information Technology</b> at <b><a href="https://www.tamcc.edu.gd/">T.A. Marryshow Community College</a></b> and a graduate of the <b><a href="https://www.cyber-nations.com/">Cyber Nations</a> × <a href="https://protexxa.com/">Protexxa</a> Cybersecurity Bootcamp (Cohort 1 - Grenada)</a></b>, where I developed hands-on skills in <b>network defense</b>, <b>vulnerability analysis</b>, <b>threat intelligence</b>, and <b>incident response</b>.</p>
 
