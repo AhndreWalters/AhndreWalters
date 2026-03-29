@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-        <a href="https://www.tamcc.edu.gd/" target="_blank" rel="noreferrer"><img height="20px" src="tamcc.png" alt="TAMCC" title="TAMCC" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <!--<a href="https://www.tamcc.edu.gd/" target="_blank" rel="noreferrer"><img height="20px" src="tamcc.png" alt="TAMCC" title="TAMCC" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="90px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <!--<a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="23px" src="GeorgeBrown3.png" alt="George Brown College" title="George Brown College" /></a>-->
         <a href="https://www.georgebrown.ca/" target="_blank" rel="noreferrer"><img height="22px" src="GeorgeBrown.png" alt="George Brown College" title="George Brown College" /></a>
