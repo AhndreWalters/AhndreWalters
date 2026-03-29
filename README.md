@@ -7,7 +7,7 @@
 
 <p align="justify">I am passionate about <b><a href="https://www.microsoft.com/en-us/security/business/security-101/what-is-security-operations-secops">security operations</a></b> and <b><a href="https://www.defensive-security.com/">defensive cybersecurity</a></b>, with a strong interest in entry-level roles focused on <b>monitoring</b>, <b>protecting</b>, and <b>strengthening digital environments</b>. I approach cybersecurity with a focus on <b>precision</b>, <b>critical analysis</b>, and <b>proactive defense</b>. I am committed to thoroughly understanding system architectures and implementing effective security measures that reduce risk and strengthen overall resilience.</p>
 
-<p align="justify">I am committed to growing as a <b><a href="https://cybersecuritynews.com/blue-team/">Blue Team</a> professional</b> through <b>continuous learning</b>, <b>hands-on projects</b>, and pursuing <b><a href="https://www.linkedin.com/in/ahndre-walters/">certifications</a></b> that deepen my technical skills. My goal is to contribute to a security team where I can make a meaningful impact while continuing to develop my craft and help build <b>safer digital spaces</b>.</p>
+<p align="justify">I am committed to growing as a <b><a href="https://cybersecuritynews.com/blue-team/">Blue Team</a></b> professional through <b>continuous learning</b>, <b>hands-on projects</b>, and pursuing <b><a href="https://www.linkedin.com/in/ahndre-walters/">certifications</a></b> that deepen my technical skills. My goal is to contribute to a security team where I can make a meaningful impact while continuing to develop my craft and help build <b>safer digital spaces</b>.</p>
 
 <h1></h1>
 
