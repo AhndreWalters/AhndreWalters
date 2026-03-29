@@ -19,7 +19,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <!--<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;-->
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://protexxa.com/" target="_blank" rel="noreferrer"><img width="35px" src="protexxa.png" alt="Protexxa" title="Protexxa" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.gov.gd/" target="_blank" rel="noreferrer"><img width="50px" src="coatofarms.png" alt="Coat of Arms" title="Coat of Arms" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.cyber-nations.com/" target="_blank" rel="noreferrer"><img width="35px" src="cybernations.png" alt="Cyber Nations" title="Cyber Nations" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +28,7 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <!--<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>-->
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
 <!--
