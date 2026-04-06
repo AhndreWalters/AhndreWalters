@@ -43,8 +43,10 @@
 <br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/ahndre-walters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/4d8d6f7d-43e7-4aab-b0b7-8cc9ae6158d5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/3c1f79ba-a595-4d33-aff6-60020148fa84" /></a>
+    <a href="https://www.linkedin.com/in/ahndre-walters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/4d8d6f7d-43e7-4aab-b0b7-8cc9ae6158d5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!--<a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/3c1f79ba-a595-4d33-aff6-60020148fa84" /></a>-->
+    <a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/0e72da7e-433f-4fc9-8413-6d4238129f96" /></a>
+
 </div>
 
 <!--
