@@ -44,7 +44,7 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/ahndre-walters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/4d8d6f7d-43e7-4aab-b0b7-8cc9ae6158d5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/39810c36-ca40-4930-aa1d-c2ff2a29e789" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/78136ef3-4b41-4dc5-aea2-79e6fbddda86" /></a>
 </div>
 
 
