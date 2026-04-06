@@ -40,6 +40,14 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GoogleCloud" title="GoogleCloud" /></a>
 </div>
 
+<br>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/ahndre-walters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/4d8d6f7d-43e7-4aab-b0b7-8cc9ae6158d5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/AhndreWalters/"><img height="20" alt="image" src="https://github.com/user-attachments/assets/39810c36-ca40-4930-aa1d-c2ff2a29e789" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+
 <!--
         <a href="https://www.tamcc.edu.gd/" target="_blank" rel="noreferrer"><img height="20px" src="tamcc.png" alt="TAMCC" title="TAMCC" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.comptia.org/en-US/" target="_blank" rel="noreferrer"><img width="90px" src="comptia.png" alt="CompTIA" title="CompTIA" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
